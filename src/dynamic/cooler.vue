@@ -1,0 +1,1 @@
+<template><div><b>COOLER</b><dynamic-something/></div></template>
